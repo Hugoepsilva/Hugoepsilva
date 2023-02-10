@@ -1,4 +1,4 @@
-<h1 align="left">OI <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Hugo Ewerton</h1>
+<h1 align="left">OI <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Hugo </h1>
 
 ## Atualmente estou em transição de carreira, cursando Analise e desenvolvimento de sistemas no segundo periodo. Descobri uma nova paixão que é a tecnologia e estou aprendendo todo dia algo novo no desenvolvimento de software, onde meu objetivo é se tornar um Dev FullStack
 
