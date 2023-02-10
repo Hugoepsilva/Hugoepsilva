@@ -1,11 +1,10 @@
-### Olá! Eu sou o Hugo Ewerton 🤙
+<h1 align="left">OI <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Hugo Ewerton</h1>
+
+## Atualmente estou em transição de carreira, cursando Analise e desenvolvimento de sistemas no segundo periodo. Descobri uma nova paixão que é a tecnologia e estou aprendendo todo dia algo novo no desenvolvimento de software, onde meu objetivo é se tornar um Dev FullStack
 
 ![Hugo Ewerton GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugoepsilva&show_icons=true&theme=radical) 
 
-
-
 ## tecnologias que uso no meu dia  
-
 
 <br/><div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,4 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoepsilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Atualmente estou em transição de carreira, cursando Analise e desenvolvimento de sistemas no segundo periodo.
+
